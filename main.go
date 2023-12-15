@@ -1,11 +1,11 @@
 package main
 
 import (
-	"advent/day5"
+	"advent/day6"
 	"fmt"
 )
 
 func main() {
 	// fmt.Println("Hello, world!")
-	fmt.Println(day5.GetAnswerPart2(day5.MockIterateLines))
+	fmt.Println(day6.GetAnswer2(day6.IterateLines))
 }
